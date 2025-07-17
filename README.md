@@ -18,7 +18,7 @@ Follow these steps to set up the project locally:
 git clone https://github.com/pruthvigururaj/Appointment-Form.git
 cd Appointment-Form
 
-install dependecies
+### 2.install dependecies
 
 npm install
 
